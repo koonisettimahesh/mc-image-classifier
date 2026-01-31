@@ -1,6 +1,3 @@
-# ✅ Final README.md (copy & paste)
-
-```markdown
 # Multi-Class Image Classifier using Transfer Learning
 
 This project implements an end-to-end multi-class image classification pipeline using transfer learning and exposes the trained model through a REST API.
